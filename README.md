@@ -38,12 +38,13 @@ Research and Education: Researchers and educators can explore the capabilities o
 * PyTorch
 * Torch XLA
 * NumPy
+* Hugging Face Latent Diffusion(image Synthesis)
 * SHAP-E library
 * Intel oneAPI PyTorch library (intel-pytorch-extension)
 
-Importing Libraries: The script imports necessary libraries including PyTorch, Torch XLA for distributed training support on TPU devices, NumPy, and various modules from the SHAP-E library.
+* Importing Libraries: The script imports necessary libraries including **Intel PyTorch**, Torch XLA for distributed training support on TPU devices, NumPy, and various modules from the SHAP-E library.
 
-Importing Intel oneAPI Libraries: This section imports Intel oneAPI libraries for optimizations.
+* Importing Intel oneAPI Libraries: This section imports Intel oneAPI libraries for optimizations.
 
 Checking PyTorch Device: It checks if PyTorch is using CUDA, typically indicating GPU acceleration.
 
