@@ -66,7 +66,7 @@ Decoding Latent Images and Displaying Results: The script iterates over the samp
 *The project now integrates Intel oneAPI libraries alongside PyTorch, leveraging the computational power of Intel's hardware. By utilizing oneAPI libraries on the PyTorch DevCloud, the code benefits from optimized performance and efficient execution. Additionally, the inclusion of Hugging Face's latent model enhances the project's capabilities, allowing for advanced processing of textual inputs. The integration of Intel oneAPI showcases a commitment to maximizing computational efficiency, ensuring that the models run seamlessly on Intel architecture. This combination of cutting-edge technologies empowers users to generate high-quality 3D shapes from images and text with improved speed and accuracy.
 ## Comparison Graph
 
-![Comparison Graph](comparison.png)
+![Comparison Graph](/comparison.png)
 # Samples
 
 Here are some highlighted samples from our text-conditional model. For random samples on selected prompts, see [samples.md](samples.md).
