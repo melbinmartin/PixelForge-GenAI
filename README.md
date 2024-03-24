@@ -32,16 +32,15 @@ Content Creation: Artists and designers can use the models to quickly generate 3
 Virtual Environment Generation: Developers of virtual reality (VR) and augmented reality (AR) applications can leverage the models to populate virtual environments with realistic 3D objects based on textual descriptions or real-world images.
 
 Research and Education: Researchers and educators can explore the capabilities of generative modeling techniques and their applications in 3D shape generation, advancing the state of the art and disseminating knowledge in the field.
-# USAGE
 
 # Prerequisites
-Python 3.6+
-PyTorch
-Torch XLA
-NumPy
-SHAP-E library
-Intel oneAPI PyTorch library (intel-pytorch-extension)
-Usage
+* Python 3.6+
+* PyTorch
+* Torch XLA
+* NumPy
+* SHAP-E library
+* Intel oneAPI PyTorch library (intel-pytorch-extension)
+
 Importing Libraries: The script imports necessary libraries including PyTorch, Torch XLA for distributed training support on TPU devices, NumPy, and various modules from the SHAP-E library.
 
 Importing Intel oneAPI Libraries: This section imports Intel oneAPI libraries for optimizations.
