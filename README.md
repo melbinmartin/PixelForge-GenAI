@@ -90,7 +90,7 @@ Here are some highlighted samples from our text-conditional model. For random sa
     </tbody>
 <table>
 
-# Usage
+# MODELS
 
 
 * [sample_text_to_3d.ipynb](PixelForge_GenAI/examples/sample_text_to_3d.ipynb) - sample a 3D model, conditioned on a text prompt.
